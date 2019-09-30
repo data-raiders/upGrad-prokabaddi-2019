@@ -1,0 +1,5 @@
+1569849544308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\BCHIRU~1\\AppData\\Local\\Temp\\rust_mozprofile0Vc50S"
+Unable to read VR Path Registry from C:\Users\bchirumamill\AppData\Local\openvr\openvrpaths.vrpath
+1569849547821	Marionette	INFO	Listening on port 56967
+1569849548288	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
