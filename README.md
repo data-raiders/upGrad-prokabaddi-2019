@@ -1,5 +1,11 @@
 # upGrad Pro Kabaddi League hackathon by The Data Raiders
 
+### Data Raiders/Contributors
+
+* _Parthiban Srinivasan_
+* _Bala Chirumamilla_
+* _Shakeeb Ansar_
+
 ## Tools and technologies used:
 
 * Selenium was used to scrape data from the official Pro Kabaddi website
